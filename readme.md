@@ -4,11 +4,6 @@ Disciplina: Arquitetura e padrões de software
 
 Professor: Willian Oizumi
 
-Projeto desenvolvido pelos alunos:
-Adler Mateus Cachuba, Isac Ponciano Bandeira, Christian Maia.
-
-
-
 ## Planilha de Decisões Arquiteturais,ADQ,RNF,RF
 
 Na Planilha de Decisões Arquiteturais,ADQ,RNF,RF você poderá conferir 5 abas.
